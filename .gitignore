@@ -1,0 +1,48 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.gradle/
+build/
+captures/
+.navigation/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Local configuration file
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Version control
+.svn/
+
+# IntelliJ
+*.iws
+
+# Android Profiling
+*.hprof

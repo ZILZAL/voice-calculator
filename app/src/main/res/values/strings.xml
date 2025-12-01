@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Calculator</string>
+    <string name="start_listening">ابدأ</string>
+    <string name="stop_listening">أوقف</string>
+    <string name="clear">امسح</string>
+    <string name="calculate_result">احسب النتيجة</string>
+    <string name="listening">جاري الاستماع…</string>
+    <string name="stopped">متوقف</string>
+    <string name="result">النتيجة</string>
+    <string name="history">السجل</string>
+    <string name="last_heard">آخر كلمة:</string>
+    <string name="select_dialect">اختر اللهجة</string>
+    <string name="dialect_levantine">شامي (Levantine)</string>
+    <string name="dialect_palestinian">فلسطيني (Palestinian)</string>
+    <string name="dialect_israeli">عربي إسرائيلي (Israeli Arabic)</string>
+    <string name="edit_number">عدل الرقم</string>
+    <string name="delete_item">حذف</string>
+    <string name="input_list">الأرقام (اضغط للتعديل):</string>
+    <string name="permission_required">نحتاج إلى إذن الميكروفون</string>
+    <string name="permission_denied">تم رفض إذن الميكروفون</string>
+    <string name="speech_not_available">التعرف على الصوت غير متاح</string>
+    <string name="error_occurred">حدث خطأ</string>
+</resources>
